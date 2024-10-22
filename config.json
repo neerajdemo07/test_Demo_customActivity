@@ -5,6 +5,7 @@
   "category":"message"
 },
 "type":"REST",
+"lang":"en",
 "userinterfaces":{
 "configInspector":{
   "size":"medium"
